@@ -1,0 +1,14 @@
+nano words.txt:
+Created a sample text file containing words for pattern matching.
+
+nano patterns.sh:
+Created a script to classify words into vowels-only, consonants-only, and mixed words starting with a consonant.
+
+chmod +x patterns.sh:
+Made the script executable.
+
+./patterns.sh:
+Executed the script to display words in the three categories.
+
+./patterns.sh > output.txt:
+Redirected the output to a file for documentation.

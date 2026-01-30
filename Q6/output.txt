@@ -1,0 +1,4 @@
+Longest word: analyze
+Shortest word: a
+Average word length: 4.10
+Total unique words: 10

@@ -1,0 +1,14 @@
+nano system.log:
+Created a sample log file with INFO, WARNING, and ERROR entries.
+
+nano log_analyzer.sh:
+Created a shell script to count log entries, count INFO/WARNING/ERROR messages, find the latest ERROR, and generate a report.
+
+chmod +x log_analyzer.sh:
+Made the script executable.
+
+./log_analyzer.sh system.log:
+Executed the script to display log summary and generate report.
+
+./log_analyzer.sh system.log > output.txt:
+Redirected output to a file for documentation.

@@ -1,0 +1,14 @@
+nano marks.txt:
+Created a sample marks file containing student roll number, name, and marks for three subjects.
+
+nano validate_results.sh:
+Created a script that counts number of failed subjects and classifies students who failed exactly one subject or passed all subjects.
+
+chmod +x validate_results.sh:
+Made the script executable.
+
+./validate_results.sh:
+Executed the script to display student categories and counts.
+
+./validate_results.sh > output.txt:
+Redirected the output to a file for documentation.

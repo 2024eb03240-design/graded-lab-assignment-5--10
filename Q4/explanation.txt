@@ -1,0 +1,14 @@
+nano emails.txt:
+Created a sample email file with valid and invalid email addresses.
+
+nano emailcleaner.sh:
+Created a shell script to separate valid and invalid emails and remove duplicates.
+
+chmod +x emailcleaner.sh:
+Made the script executable.
+
+./emailcleaner.sh:
+Executed the script to display valid and invalid emails.
+
+./emailcleaner.sh > output.txt:
+Redirected the output to a file for documentation.

@@ -1,0 +1,12 @@
+signal_handling.c:
+This C program demonstrates handling signals in a parent process.
+
+- Parent process runs indefinitely and installs handlers for SIGTERM and SIGINT.
+- Child 1 sleeps 5 seconds and sends SIGTERM to parent. Parent handles it and exits gracefully.
+- Child 2 sleeps 10 seconds and sends SIGINT to parent. Parent handles it differently and ignores it.
+- pause() is used in parent to wait for signals.
+- The program was executed using an online C compiler due to local GCC unavailability.
+
+Output:
+- Parent PID printed at start
+- Messages showing parent received SIGTERM and SIGINT

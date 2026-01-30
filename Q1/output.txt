@@ -1,0 +1,2 @@
+File analysis:
+ 2  5 30 sample.txt

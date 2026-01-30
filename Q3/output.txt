@@ -1,0 +1,6 @@
+Ali passed all subjects
+Sara failed exactly one subject
+Zara passed all subjects
+Omar failed exactly one subject
+Total students passed all subjects: 2
+Total students failed exactly one subject: 2

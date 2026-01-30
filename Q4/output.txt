@@ -1,0 +1,8 @@
+Valid emails:
+ali@example.com
+maria@example.com
+sara123@gmail.com
+
+Invalid emails:
+bad-email@com
+john@@example.com

@@ -1,0 +1,2 @@
+bad-email@com
+john@@example.com

@@ -1,0 +1,14 @@
+nano input.txt:
+Created a sample text file to analyze.
+
+nano metrics.sh:
+Created a script to calculate longest and shortest words, average word length, and total unique words.
+
+chmod +x metrics.sh:
+Made the script executable.
+
+./metrics.sh:
+Executed the script to display text metrics.
+
+./metrics.sh > output.txt:
+Redirected output to a file for documentation.

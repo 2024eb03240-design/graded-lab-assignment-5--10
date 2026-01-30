@@ -1,0 +1,8 @@
+chmod +x analyze.sh:
+Made the script executable.
+
+./analyze.sh sample.txt:
+Displayed the number of lines, words, and characters in the file.
+
+./analyze.sh testdir:
+Displayed total files and number of .txt files in the directory.

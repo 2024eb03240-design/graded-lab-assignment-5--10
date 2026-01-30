@@ -1,0 +1,6 @@
+Child process PID: 1642
+Child process PID: 1643
+Child process PID: 1644
+Parent cleaned child PID: 1642
+Parent cleaned child PID: 1643
+Parent cleaned child PID: 1644

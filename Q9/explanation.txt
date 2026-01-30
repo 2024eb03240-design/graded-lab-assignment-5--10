@@ -1,0 +1,10 @@
+zombie.c:
+This program creates multiple child processes using fork().
+Each child exits after execution.
+
+wait() is used in the parent process to collect the exit status
+of terminated children, ensuring no zombie processes remain.
+
+The parent prints the PID of each child it cleans up.
+The program was executed using an online C compiler due to
+local compiler unavailability.

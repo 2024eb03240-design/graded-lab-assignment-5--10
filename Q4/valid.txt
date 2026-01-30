@@ -1,0 +1,3 @@
+ali@example.com
+maria@example.com
+sara123@gmail.com

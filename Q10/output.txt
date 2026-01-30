@@ -1,0 +1,3 @@
+Parent PID: 4567 running. Waiting for signals...
+Parent received SIGTERM (signal 15). Exiting gracefully.
+Parent received SIGINT (signal 2). Ignoring and continuing.

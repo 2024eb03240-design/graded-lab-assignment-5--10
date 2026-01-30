@@ -1,0 +1,6 @@
+ali@example.com
+sara123@gmail.com
+bad-email@com
+john@@example.com
+maria@example.com
+ali@example.com

@@ -1,0 +1,17 @@
+mkdir dirA dirB:
+Created two sample directories to test directory comparison.
+
+echo ... > dirA/fileX.txt / dirB/fileX.txt:
+Created files with same, different, and unique content.
+
+nano sync.sh:
+Created a script to list files only in one directory and files with different content in both directories.
+
+chmod +x sync.sh:
+Made the script executable.
+
+./sync.sh:
+Executed the script to compare directories and display results.
+
+./sync.sh > output.txt:
+Redirected output to a file for documentation.
