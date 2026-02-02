@@ -1,0 +1,6 @@
+I created a script bg_move.sh that moves all files from a given directory into a backup subdirectory in the background. 
+Each move is executed as a separate background process and its PID is displayed. 
+I used '&' to run each move in the background and 'wait' to ensure all background processes complete before the script ends.
+I tested the script using a folder named 'testdir' containing files file1.txt, file2.txt, and file3.doc. 
+After running the script, all files were successfully moved into testdir/backup.
+
